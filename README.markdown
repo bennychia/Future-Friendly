@@ -1,4 +1,4 @@
-#Future Friendly 面向未来的友好设计中文版
+#Future Friendly 面向未来的友好设计(中文版)
 
 ## [futurefriend.ly](http://futurefriend.ly)
 
