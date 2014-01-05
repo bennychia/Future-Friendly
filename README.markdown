@@ -1,4 +1,6 @@
-# Future Friendly ZH-CN Translation Project 面向未来的友好设计中文翻译项目
+Future Friendly ZH-CN Translation  
+面向未来的友好设计中文翻译
+======
 
 ## [futurefriend.ly](http://futurefriend.ly)
 
